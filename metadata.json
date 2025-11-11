@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Nöbetçi Öğretmen Çizelgesi",
+  "description": "Öğretmenler için adil ve otomatik nöbet çizelgesi hazırlama programı. Verileri yerel olarak saklar, dışa aktarma ve içe aktarma özelliklerine sahiptir.",
+  "requestFramePermissions": []
+}
